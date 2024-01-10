@@ -9,6 +9,7 @@ public class Person {
         System.out.println("PERSON1 FIRSTNAME: " + person1.getFirstName());
         System.out.println("PERSON1 LASTNAME: " + person1.getLastName());
         System.out.println("PERSON1 AGE: " + person1.getAge());
+
         System.out.println("*****NewPersonSameOldMistakes*******");
         System.out.println("PERSON2 FIRSTNAME: " + person2.getFirstName());
         System.out.println("PERSON2 LASTNAME: " + person2.getLastName());
