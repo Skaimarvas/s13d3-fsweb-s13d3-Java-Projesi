@@ -21,11 +21,11 @@ public class Wall {
     }
 
     public double getWidth(){
-      return width;
+      return this.width;
     }
 
     public  double getHeight(){
-        return height;
+        return this.height;
     }
     public double getArea(){
         return this.height*this.width;
